@@ -1,0 +1,19 @@
+# Visual Studio
+.vs/
+
+# .NET
+**/bin/
+**/obj/
+
+# React
+**/node_modules/
+**/dist/
+**/build/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
