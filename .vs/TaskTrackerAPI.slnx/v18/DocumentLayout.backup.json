@@ -1,0 +1,146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\baner\\source\\repos\\TaskTrackerAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7661C022-221A-6E50-E4AA-77E4BE66652F}|TaskTrackerAPI\\TaskTrackerAPI.csproj|c:\\users\\baner\\source\\repos\\tasktrackerapi\\tasktrackerapi\\services\\tasktrackerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7661C022-221A-6E50-E4AA-77E4BE66652F}|TaskTrackerAPI\\TaskTrackerAPI.csproj|solutionrelative:tasktrackerapi\\services\\tasktrackerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7661C022-221A-6E50-E4AA-77E4BE66652F}|TaskTrackerAPI\\TaskTrackerAPI.csproj|c:\\users\\baner\\source\\repos\\tasktrackerapi\\tasktrackerapi\\services\\interfaces\\itasktrackerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7661C022-221A-6E50-E4AA-77E4BE66652F}|TaskTrackerAPI\\TaskTrackerAPI.csproj|solutionrelative:tasktrackerapi\\services\\interfaces\\itasktrackerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7661C022-221A-6E50-E4AA-77E4BE66652F}|TaskTrackerAPI\\TaskTrackerAPI.csproj|c:\\users\\baner\\source\\repos\\tasktrackerapi\\tasktrackerapi\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7661C022-221A-6E50-E4AA-77E4BE66652F}|TaskTrackerAPI\\TaskTrackerAPI.csproj|solutionrelative:tasktrackerapi\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7661C022-221A-6E50-E4AA-77E4BE66652F}|TaskTrackerAPI\\TaskTrackerAPI.csproj|c:\\users\\baner\\source\\repos\\tasktrackerapi\\tasktrackerapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7661C022-221A-6E50-E4AA-77E4BE66652F}|TaskTrackerAPI\\TaskTrackerAPI.csproj|solutionrelative:tasktrackerapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7661C022-221A-6E50-E4AA-77E4BE66652F}|TaskTrackerAPI\\TaskTrackerAPI.csproj|c:\\users\\baner\\source\\repos\\tasktrackerapi\\tasktrackerapi\\models\\tasktracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7661C022-221A-6E50-E4AA-77E4BE66652F}|TaskTrackerAPI\\TaskTrackerAPI.csproj|solutionrelative:tasktrackerapi\\models\\tasktracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7661C022-221A-6E50-E4AA-77E4BE66652F}|TaskTrackerAPI\\TaskTrackerAPI.csproj|c:\\users\\baner\\source\\repos\\tasktrackerapi\\tasktrackerapi\\models\\dtos\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7661C022-221A-6E50-E4AA-77E4BE66652F}|TaskTrackerAPI\\TaskTrackerAPI.csproj|solutionrelative:tasktrackerapi\\models\\dtos\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7661C022-221A-6E50-E4AA-77E4BE66652F}|TaskTrackerAPI\\TaskTrackerAPI.csproj|c:\\users\\baner\\source\\repos\\tasktrackerapi\\tasktrackerapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7661C022-221A-6E50-E4AA-77E4BE66652F}|TaskTrackerAPI\\TaskTrackerAPI.csproj|solutionrelative:tasktrackerapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskTrackerService.cs",
+              "DocumentMoniker": "C:\\Users\\baner\\source\\repos\\TaskTrackerAPI\\TaskTrackerAPI\\Services\\TaskTrackerService.cs",
+              "RelativeDocumentMoniker": "TaskTrackerAPI\\Services\\TaskTrackerService.cs",
+              "ToolTip": "C:\\Users\\baner\\source\\repos\\TaskTrackerAPI\\TaskTrackerAPI\\Services\\TaskTrackerService.cs",
+              "RelativeToolTip": "TaskTrackerAPI\\Services\\TaskTrackerService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwDYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T16:07:58.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\baner\\source\\repos\\TaskTrackerAPI\\TaskTrackerAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "TaskTrackerAPI\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\baner\\source\\repos\\TaskTrackerAPI\\TaskTrackerAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "TaskTrackerAPI\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T16:08:46.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ITaskTrackerService.cs",
+              "DocumentMoniker": "C:\\Users\\baner\\source\\repos\\TaskTrackerAPI\\TaskTrackerAPI\\Services\\Interfaces\\ITaskTrackerService.cs",
+              "RelativeDocumentMoniker": "TaskTrackerAPI\\Services\\Interfaces\\ITaskTrackerService.cs",
+              "ToolTip": "C:\\Users\\baner\\source\\repos\\TaskTrackerAPI\\TaskTrackerAPI\\Services\\Interfaces\\ITaskTrackerService.cs",
+              "RelativeToolTip": "TaskTrackerAPI\\Services\\Interfaces\\ITaskTrackerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T15:55:13.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskTracker.cs",
+              "DocumentMoniker": "C:\\Users\\baner\\source\\repos\\TaskTrackerAPI\\TaskTrackerAPI\\Models\\TaskTracker.cs",
+              "RelativeDocumentMoniker": "TaskTrackerAPI\\Models\\TaskTracker.cs",
+              "ToolTip": "C:\\Users\\baner\\source\\repos\\TaskTrackerAPI\\TaskTrackerAPI\\Models\\TaskTracker.cs",
+              "RelativeToolTip": "TaskTrackerAPI\\Models\\TaskTracker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T15:54:33.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskDto.cs",
+              "DocumentMoniker": "C:\\Users\\baner\\source\\repos\\TaskTrackerAPI\\TaskTrackerAPI\\Models\\Dtos\\TaskDto.cs",
+              "RelativeDocumentMoniker": "TaskTrackerAPI\\Models\\Dtos\\TaskDto.cs",
+              "ToolTip": "C:\\Users\\baner\\source\\repos\\TaskTrackerAPI\\TaskTrackerAPI\\Models\\Dtos\\TaskDto.cs",
+              "RelativeToolTip": "TaskTrackerAPI\\Models\\Dtos\\TaskDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T15:47:57.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\baner\\source\\repos\\TaskTrackerAPI\\TaskTrackerAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "TaskTrackerAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\baner\\source\\repos\\TaskTrackerAPI\\TaskTrackerAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "TaskTrackerAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowEgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T15:41:20.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\baner\\source\\repos\\TaskTrackerAPI\\TaskTrackerAPI\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "TaskTrackerAPI\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\baner\\source\\repos\\TaskTrackerAPI\\TaskTrackerAPI\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "TaskTrackerAPI\\Controllers\\TaskController.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAADwv2kAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T14:56:02.833Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
